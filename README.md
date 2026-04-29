@@ -5,8 +5,8 @@ An interactive Tableau dashboard visualising world population growth and distrib
 
 ## Dashboard Preview
 
-```text
-[Dashboard]( Dashboard 1.pdf )
+```url
+( Dashboard 1.pdf )
 ```
 
 ## Visuals
