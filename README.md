@@ -4,10 +4,8 @@
 An interactive Tableau dashboard visualising world population growth and distribution from 2000 to 2015.
 
 ## Dashboard Preview
+[Dashboard](Dashboard 1.pdf)
 
-```url
-( Dashboard 1.pdf )
-```
 
 ## Visuals
 **Bar chart**- Population total growth by year
