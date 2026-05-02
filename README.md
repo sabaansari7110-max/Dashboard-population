@@ -9,11 +9,14 @@ An interactive Tableau dashboard visualising world population growth and distrib
 
 ## Visuals
 **Bar chart**- Population total growth by year
+<br>
 **map**- Population distribution by country
+<br>
 **Measure values**- Detailed population value trends 
 
 ## Key Insight
 -World population grew from -6 billion in 2000 to -7 billion by 2015
+<br>
 -Asia (Chain & India) shows the highest population density.
 
 ## Tools used
