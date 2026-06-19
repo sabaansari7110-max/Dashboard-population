@@ -4,7 +4,7 @@
 An interactive Tableau dashboard visualising world population growth and distribution from 2000 to 2015.
 
 ## Dashboard Preview
-<img width="1699" height="1599" alt="Dashboard 1 (7)" src="https://github.com/user-attachments/assets/f5bb9d90-7df3-4dc2-b21c-8da7512668e0" />
+<img width="1099" height="799" alt="Dashboard 1 (8)" src="https://github.com/user-attachments/assets/496de694-4ba7-4374-ab95-929d77ccbd6d" />
 
 
 
@@ -24,4 +24,4 @@ An interactive Tableau dashboard visualising world population growth and distrib
 -Tableau Public
 
 ## Live Dashboard
-https://public.tableau.com/app/profile/saba.ansari3517/viz/HeartAttackFactor/Dashboard1
+https://public.tableau.com/app/profile/saba.ansari3517/viz/Population2000-2015/Dashboard1
