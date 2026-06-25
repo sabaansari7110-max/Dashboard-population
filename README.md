@@ -1,6 +1,6 @@
 # World population Dashboard (2000-2015)
 
-## overview 
+## Overview 
 An interactive Tableau dashboard visualising world population growth and distribution from 2000 to 2015.
 
 ## Dashboard Preview
@@ -10,13 +10,13 @@ An interactive Tableau dashboard visualising world population growth and distrib
 
 ## Visuals
 
-**Bar chart** - Population total growth by year
+**Bar chart**- Population total growth by year
 <br>
 
-**map** - Population distribution by country
+**map**- Population distribution by country
 <br>
 
-**Measure values** - Detailed population value trends 
+**Measure values**- Detailed population value trends 
 
 ## Key Insight
 -World population grew from -6 billion in 2000 to -7 billion by 2015
